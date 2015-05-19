@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name resonator)(type KiCad)(uri /home/cain/Embedded/RF_boards/SAM3S_SPARTAN6/modules.pretty)(options "")(descr ""))
+  (lib (name opendous)(type Legacy)(uri /home/cain/Embedded/RF_boards/SAM3S_SPARTAN6/modules.pretty/opendous.mod)(options "")(descr ""))
+)
