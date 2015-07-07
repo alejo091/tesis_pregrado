@@ -2536,12 +2536,12 @@
     )
   )
 
-  (module SM1206_Opendous (layer B.Cu) (tedit 54C2D127) (tstamp 54C2D87A)
+  (module SM1206_Opendous (layer B.Cu) (tedit 555D2FC5) (tstamp 54C2D87A)
     (at 49.01 109.08 180)
     (path /54B6445D/54C569CA)
     (attr smd)
-    (fp_text reference CF30 (at 0.21 2.1 360) (layer B.SilkS)
-      (effects (font (size 0.8128 0.7112) (thickness 0.1778)) (justify mirror))
+    (fp_text reference CF30 (at 0.21 2.1 180) (layer B.SilkS)
+      (effects (font (size 0.6 0.6) (thickness 0.12)) (justify mirror))
     )
     (fp_text value 33uF (at 0 0 450) (layer B.SilkS) hide
       (effects (font (size 0.127 0.127) (thickness 0.00254)) (justify mirror))
