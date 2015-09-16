@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:i.MX283_Board-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -10,7 +11,6 @@ LIBS:cmos4000
 LIBS:adc-dac
 LIBS:memory
 LIBS:xilinx
-LIBS:special
 LIBS:microcontrollers
 LIBS:dsp
 LIBS:microchip
@@ -355,7 +355,7 @@ Connection ~ 1550 6550
 Connection ~ 1550 6700
 Connection ~ 1550 6850
 $Comp
-L GND #PWR01
+L GND-RESCUE-i.MX283_Board #PWR01
 U 1 1 555DAC3D
 P 1550 6950
 F 0 "#PWR01" H 1550 6950 30  0001 C CNN
@@ -488,7 +488,7 @@ Connection ~ 2000 6550
 Connection ~ 2000 6700
 Connection ~ 2000 6850
 $Comp
-L GND #PWR02
+L GND-RESCUE-i.MX283_Board #PWR02
 U 1 1 555DB58B
 P 2000 6950
 F 0 "#PWR02" H 2000 6950 30  0001 C CNN
@@ -621,7 +621,7 @@ Connection ~ 2450 6550
 Connection ~ 2450 6700
 Connection ~ 2450 6850
 $Comp
-L GND #PWR03
+L GND-RESCUE-i.MX283_Board #PWR03
 U 1 1 555DE491
 P 2450 6950
 F 0 "#PWR03" H 2450 6950 30  0001 C CNN
@@ -754,7 +754,7 @@ Connection ~ 2900 6550
 Connection ~ 2900 6700
 Connection ~ 2900 6850
 $Comp
-L GND #PWR04
+L GND-RESCUE-i.MX283_Board #PWR04
 U 1 1 555DE4DE
 P 2900 6950
 F 0 "#PWR04" H 2900 6950 30  0001 C CNN
@@ -887,7 +887,7 @@ Connection ~ 3350 6550
 Connection ~ 3350 6700
 Connection ~ 3350 6850
 $Comp
-L GND #PWR?
+L GND-RESCUE-i.MX283_Board #PWR?
 U 1 1 555E17A8
 P 3350 6950
 F 0 "#PWR?" H 3350 6950 30  0001 C CNN
