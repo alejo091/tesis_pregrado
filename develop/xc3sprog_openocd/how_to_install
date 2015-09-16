@@ -1,0 +1,14 @@
+Install xc3sprog:
+svn checkout https://svn.code.sf.net/p/xc3sprog/code/trunk xc3sprog-code
+mkdir build
+cd build
+cmake ../
+make
+sudo make install
+
+
+Install openocd
+ ./configure  --enable-ft2232_libftdi  --enable-usbprog 
+ make
+ sudo make install
+
