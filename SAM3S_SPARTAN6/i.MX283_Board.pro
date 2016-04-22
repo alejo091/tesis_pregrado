@@ -1,4 +1,4 @@
-update=Mon 14 Sep 2015 06:02:07 PM COT
+update=Sun 17 Apr 2016 08:38:32 AM COT
 version=1
 last_client=kicad
 [cvpcb]
@@ -79,6 +79,16 @@ LibName49=st3008
 LibName50=pin_array_8x2
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=LIBRERIAS
@@ -186,3 +196,15 @@ LibName100=atsam3n2
 LibName101=6slx9tqg144
 LibName102=lan8720a
 LibName103=rj45_stamp
+LibName104=LIBRERIAS/stamp_mini_4_layers-cache
+LibName105=LIBRERIAS/stamp_mini_4_layers-rescue
+LibName106=LIBRERIAS/media_board-cache
+LibName107=LIBRERIAS/lemondrop-cache
+LibName108=LIBRERIAS/lemondrop-rescue
+LibName109=LIBRERIAS/stm32f4_lqfp100
+LibName110=LIBRERIAS/stm32f4_lqfp144
+LibName111=LIBRERIAS/STULPI01
+LibName112=LIBRERIAS/usb3300
+LibName113=LIBRERIAS/mic2025
+LibName114=LIBRERIAS/conn_14x2
+LibName115=LIBRERIAS/STMPS2141STR
